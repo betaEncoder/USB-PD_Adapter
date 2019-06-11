@@ -55,4 +55,6 @@ USB 2.0 の信号線も取り出すことができるので，既存のUSB機器
 
 このデータは寸法を保証するものではありません．参考値としてご利用ください．
 
-（PDFとSTEPへのリンク）
+[PDF](PD_Adapter.PDF)
+
+[STEP](PD_Adapter.step)
