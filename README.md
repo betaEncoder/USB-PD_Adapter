@@ -1,4 +1,5 @@
 # USB-PD_Adapter
+- PDから電圧ぶっこ抜く -
 
 ## これは何？
 Mac book や ニンテンドーSwitch などの USB Type-C Power Derivery 対応のACアダプタのようなPDソース機器からPDOに従った任意の電源を取り出すためのモジュールです．
