@@ -1,8 +1,10 @@
 # USB-PD_Adapter
 -PDから電圧ぶっこ抜く-
 
+![USB-PD_Adapter](img/pd_adapter.JPG) 
+
 ## これは何？
-Mac book や ニンテンドーSwitch などの USB Type-C Power Derivery 対応のACアダプタのようなPDソース機器からPDOに従った任意の電源を取り出すためのモジュールです．
+Mac book や ニンテンドーSwitch などの USB Type-C Power Derivery 対応のACアダプタやモバイルバッテリーのようなPDソース機器からPDOに従った任意の電源を取り出すためのモジュールです．
 
 USB 2.0 の信号線も取り出すことができるので，既存のUSB機器などを簡単にPD対応させることができます．
 
@@ -34,11 +36,11 @@ USB 2.0 の信号線も取り出すことができるので，既存のUSB機器
 
 | ジャンパー位置 | 電圧 |
 |:--------------|:----|
-| あああ          | 5V  |
-| いいい        | 9V  |
-| ううう        | 12V |
-| えええ        | 15V |
-| おおお        | 20V |
+| ![5V](img/config_5V.JPG)         | 5V  |
+| ![9V](img/config_9V.JPG)        | 9V  |
+| ![12V](img/config_12V.JPG)        | 12V |
+| ![15V](img/config_15V.JPG)        | 15V |
+| ![20V](img/config_20V.JPG)        | 20V |
 | その他        | 使用しません |
 
 ## CN2, CN3 について
