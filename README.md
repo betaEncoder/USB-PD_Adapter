@@ -1,4 +1,4 @@
-# USB-PD_Adapter
+# USB-PD_Adapter PDA-01
 -PDから電圧ぶっこ抜く-
 
 ![USB-PD_Adapter](img/pd_adapter.JPG) 
@@ -8,6 +8,7 @@ Mac book や ニンテンドーSwitch などの USB Type-C Power Derivery 対応
 
 USB 2.0 の信号線も取り出すことができるので，既存のUSB機器などを簡単にPD対応させることができます．
 
+鉛フリー，RoHS対応部品を使用しています．
 
 ## USB-PDとは？
 これまでUSBホスト機器やACアダプタから提供されるバスパワー電圧は5Vを基本に，電流は最大でも2.1A程度でした．
