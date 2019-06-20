@@ -36,15 +36,15 @@ USB 2.0 の信号線も取り出すことができるので，既存のUSB機器
 
 | ジャンパー位置 | 電圧 |
 |:--------------|:----|
-| ![5V](img/config_5V.JPG)         | 5V  |
-| ![9V](img/config_9V.JPG)        | 9V  |
-| ![12V](img/config_12V.JPG)        | 12V |
-| ![15V](img/config_15V.JPG)        | 15V |
-| ![20V](img/config_20V.JPG)        | 20V |
+| ![5V](img/config_5V.JPG)    | 5V  |
+| ![9V](img/config_9V.JPG)    | 9V  |
+| ![12V](img/config_12V.JPG)  | 12V |
+| ![15V](img/config_15V.JPG)  | 15V |
+| ![20V](img/config_20V.JPG)  | 20V |
 | その他        | 使用しません |
 
 ## CN2, CN3 について
-電線を直接はんだ付けするほか，日本圧着端子製造(JST)のVHコネクタ又は2.54mmピッチのピンヘッダをはんだ付け可能です．
+電線を直接はんだ付けするほか，日本圧着端子製造(JST)のXHコネクタ又は2.54mmピッチのピンヘッダをはんだ付け可能です．
 
 ハーネスを用いてVBUSとD+,D-を取り出すことができます．
 
