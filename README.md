@@ -65,3 +65,11 @@ USB PD 規格仕様により，VBUSに接続できる容量に制限があり，
 [PDF](PD_Adapter.PDF)
 
 [STEP](PD_Adapter.step)
+
+## 動作確認済みPDソース機器
+
+| 製品名 | 出力電圧 | 備考 |
+|:--------------|:----|:----|
+| Anker Atom PD4       | 5V/9V/15V/20V     | 5A出力可能な製品ですがUSB-PD_Adapterの定格上引き出せる電流は3Aまでとなります |
+| RAVPower RP-PB159    | 5V/9V/12V/15V/20V |  |
+| Xiaomi 65W ACアダプタ | 5V/9V/12V/15V/20V |  |
