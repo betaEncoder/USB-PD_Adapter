@@ -4,7 +4,7 @@
 ![USB-PD_Adapter](img/pd_adapter.JPG) 
 
 ## これは何？
-Mac book や ニンテンドーSwitch などの USB Type-C Power Derivery 対応のACアダプタやモバイルバッテリーのようなPDソース機器からPDOに従った任意の電源を取り出すためのモジュールです．
+MacBook や ニンテンドーSwitch などの USB Type-C Power Delivery 対応のACアダプタやモバイルバッテリーのようなPDソース機器からPDOに従った任意の電源を取り出すためのモジュールです．
 
 工作した機器の電源として市販のPD対応モバイルバッテリー等を使うことができるので安全に大容量のエネルギーを活用することができます．
 
