@@ -81,6 +81,7 @@ USB PD 規格仕様により，VBUSに接続できる容量に制限があり，
 | Anker PowerPort Atom PD 1 | 5V/9V/15V/20V     |  |
 | RAVPower RP-PB159    | 5V/9V/12V/15V/20V |  |
 | RAVPower RP-PC104    | 5V/9V/12V/15V/20V |  |
+| RAVPower RP-PC112    | 5V/9V/12V/15V/20V |  |
 | Xiaomi 65W ACアダプタ | 5V/9V/12V/15V/20V |  |
 | SALCAR HDD28-01 | 5V/9V/15V/20V |  |
 | Lenovo 45W USB Type-C ウルトラポータブルACアダプター | 5V/9V/15V/20V |  |
