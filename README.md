@@ -1,6 +1,9 @@
 # USB-PD_Adapter PDA-01
 -PDから電圧ぶっこ抜く-
 
+**NRND;Not Recomended for New Design**
+後継モデルは[PDA-02](https://github.com/betaEncoder/USB-PD_Adapter-PDA-02)です
+
 ![USB-PD_Adapter](img/pd_adapter.JPG) 
 
 ## これは何？
